@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/web/viewCustomer.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/src/java/com/bank/dao/TransferDao.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/web/transactionHistory.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/web/index.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/web/login.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/src/java/com/bank/entities/Transfer.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/web/transfer.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/web/footer.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/web/nav_bar.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/src/java/com/bank/entities/User.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/src/java/com/bank/servlet/transferServlet.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/banking%20system/src/java/com/bank/dao/UserDao.java</file>
+        </group>
+    </open-files>
+</project-private>
