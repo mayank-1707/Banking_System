@@ -1,5 +1,4 @@
 # **Banking System**
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
+* Frontend : HTML, CSS, Bootstrap
+- Backend  : Java
++ Database : MySql
